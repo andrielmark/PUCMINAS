@@ -33,4 +33,3 @@ Tudo está estruturado de forma a tornar mais fácil a navegação pelos conteú
 
 ---
 
-Se quiser, posso gerar também o arquivo `README.md` pronto para você colar direto no seu repositório. Deseja isso?
